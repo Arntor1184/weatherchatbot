@@ -1,0 +1,3 @@
+Hello and thank you for using my chatbot. It's a simple app that will check the weather,
+give advice and check for major holidays based on where the user searches.
+
